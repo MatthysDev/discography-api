@@ -1,0 +1,57 @@
+{
+  "types": [
+    {
+      "id": 1,
+      "name": "Light"
+    },
+    {
+      "id": 2,
+      "name": "Dark"
+    },
+    {
+      "id": 3,
+      "name": "Water"
+    },
+    {
+      "id": 4,
+      "name": "Fire"
+    },
+    {
+      "id": 5,
+      "name": "Wind"
+    }
+  ],
+  "mobs": [
+    {
+      "id": 1,
+      "name": "Fran",
+      "role": "Attaquant",
+      "typeId": 1
+    },
+    {
+      "id": 2,
+      "name": "Lapis",
+      "role": "Attack",
+      "typeId": 3
+    },
+    {
+      "id": 3,
+      "name": "Charlotte",
+      "role": "Attack",
+      "typeId": 5
+    },
+    {
+      "id": 4,
+      "name": "Kro",
+      "role": "Attack",
+      "typeId": 2
+    },
+    {
+      "id": 5,
+      "name": "Belladeon",
+      "role": "Defense",
+      "typeId": 1
+    }
+    
+  ]
+}
