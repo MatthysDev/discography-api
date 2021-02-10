@@ -25,7 +25,7 @@
     {
       "id": 1,
       "name": "Fran",
-      "role": "Attaquant",
+      "role": "Support",
       "typeId": 1
     },
     {
@@ -51,6 +51,12 @@
       "name": "Belladeon",
       "role": "Defense",
       "typeId": 1
+    },
+    {
+      "id": 6,
+      "name": "Sigmarus",
+      "role": "Attack",
+      "typeId": 3
     } 
   ]
 }
