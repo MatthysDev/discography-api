@@ -1,62 +1,63 @@
 {
-  "types": [
+  "books": [
     {
       "id": 1,
-      "name": "Light"
-    },
-    {
-      "id": 2,
-      "name": "Dark"
-    },
-    {
-      "id": 3,
-      "name": "Water"
-    },
-    {
-      "id": 4,
-      "name": "Fire"
-    },
-    {
-      "id": 5,
-      "name": "Wind"
+      "title": "Tilte de sa mort",
+      "summary":"C'est un résumé du livre",
+      "author":[1,2],
+      "kind":[1,2]
     }
   ],
-  "mobs": [
+  "kinds": [
     {
       "id": 1,
-      "name": "Fran",
-      "role": "Support",
-      "typeId": 1
+      "name": "Fantastique"
     },
     {
       "id": 2,
-      "name": "Lapis",
-      "role": "Attack",
-      "typeId": 3
+      "name": "Romance"
     },
     {
       "id": 3,
-      "name": "Charlotte",
-      "role": "Attack",
-      "typeId": 5
+      "name": "Classique"
     },
     {
       "id": 4,
-      "name": "Kro",
-      "role": "Attack",
-      "typeId": 2
+      "name": "Biographie"
     },
     {
       "id": 5,
-      "name": "Belladeon",
-      "role": "Defense",
-      "typeId": 1
+      "name": "Épopée"
     },
     {
       "id": 6,
-      "name": "Sigmarus",
-      "role": "Attack",
-      "typeId": 3
-    } 
+      "name": "Conte"
+    },
+    {
+      "id": 7,
+      "name": "scientifique"
+    },
+    {
+      "id": 8,
+      "name": "science-fiction"
+    },
+    {
+      "id": 9,
+      "name": "fiction"
+    }  
+  ],
+  "authors": [
+    {
+      "id": 1,
+      "firstName": "Anne",
+      "lastName": "Martinez",
+      "birthDay":"XX/XX/XXXX"
+    },
+    {
+      "id": 2,
+      "firstName": "Anne",
+      "lastName": "Martinez",
+      "birthDay":"XX/XX/XXXX"
+    }
   ]
 }
