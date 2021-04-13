@@ -4,8 +4,8 @@
       "id": 1,
       "title": "Tilte de sa mort",
       "summary":"C'est un résumé du livre",
-      "author":[1,2],
-      "kind":[1,2]
+      "author":1,
+      "kind":1
     }
   ],
   "kinds": [
