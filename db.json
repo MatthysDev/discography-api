@@ -2,10 +2,28 @@
   "books": [
     {
       "id": 1,
-      "title": "Tilte de sa mort",
-      "summary":"C'est un résumé du livre",
-      "author":1,
-      "kind":1
+      "title": "Little Shade Tome 1",
+      "summary": "C'est un résumé du livre",
+      "author": "1",
+      "kind": "1"
+    },{
+      "id": 2,
+      "title": "Little Shade Tome 2",
+      "summary": "C'est un résumé du livre",
+      "author": "1",
+      "kind": "1"
+    },{
+      "id": 3,
+      "title": "Little Shade Tome 3",
+      "summary": "C'est un résumé du livre",
+      "author": "1",
+      "kind": "1"
+    },{
+      "id": 4,
+      "title": "Keleana",
+      "summary": "C'est un résumé du livre",
+      "author": "3",
+      "kind": "1"
     }
   ],
   "kinds": [
@@ -49,15 +67,21 @@
   "authors": [
     {
       "id": 1,
-      "firstName": "Anne",
+      "firstName": "Maeva",
       "lastName": "Martinez",
-      "birthDay":"XX/XX/XXXX"
+      "birthDay":"04/04/1998"
     },
     {
       "id": 2,
       "firstName": "Anne",
       "lastName": "Martinez",
-      "birthDay":"XX/XX/XXXX"
+      "birthDay":"04/04/1998"
+    },
+    {
+      "id": 3,
+      "firstName": "AnSarahne",
+      "lastName": "J. Mass",
+      "birthDay":"05/03/1986"
     }
   ]
 }
