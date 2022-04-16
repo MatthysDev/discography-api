@@ -1,87 +1,37 @@
 {
-  "books": [
+  "album": [
     {
       "id": 1,
       "title": "Little Shade Tome 1",
       "summary": "C'est un résumé du livre",
       "author": "1",
       "kind": "1"
-    },{
-      "id": 2,
-      "title": "Little Shade Tome 2",
-      "summary": "C'est un résumé du livre",
-      "author": "1",
-      "kind": "1"
-    },{
-      "id": 3,
-      "title": "Little Shade Tome 3",
-      "summary": "C'est un résumé du livre",
-      "author": "1",
-      "kind": "1"
-    },{
-      "id": 4,
-      "title": "Keleana",
-      "summary": "C'est un résumé du livre",
-      "author": "3",
-      "kind": "1"
     }
   ],
-  "kinds": [
+  "style": [
     {
       "id": 1,
-      "name": "Fantastique"
+      "name": "Rap"
     },
     {
       "id": 2,
-      "name": "Romance"
+      "name": "Pop"
     },
     {
       "id": 3,
-      "name": "Classique"
+      "name": "Rock"
     },
     {
       "id": 4,
-      "name": "Biographie"
-    },
-    {
-      "id": 5,
-      "name": "Épopée"
-    },
-    {
-      "id": 6,
-      "name": "Conte"
-    },
-    {
-      "id": 7,
-      "name": "scientifique"
-    },
-    {
-      "id": 8,
-      "name": "science-fiction"
-    },
-    {
-      "id": 9,
-      "name": "fiction"
-    }  
+      "name": "Jazz"
+    }
   ],
-  "authors": [
+  "artist": [
     {
       "id": 1,
       "firstName": "Maeva",
       "lastName": "Bonachera",
-      "birthDay":"04/04/1998"
-    },
-    {
-      "id": 2,
-      "firstName": "Anne",
-      "lastName": "Martinez",
-      "birthDay":"04/04/1998"
-    },
-    {
-      "id": 3,
-      "firstName": "Sarah",
-      "lastName": "J. Mass",
-      "birthDay":"05/03/1986"
+      "birthDay": "04/04/1998"
     }
   ]
 }
