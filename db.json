@@ -2,8 +2,8 @@
   "album": [
     {
       "id": 1,
-      "title": "Little Shade Tome 1",
-      "summary": "C'est un résumé du livre",
+      "title": "Civilisation",
+      "summary": "4ème album de l'artiste",
       "author": "1",
       "kind": "1"
     }
@@ -29,9 +29,9 @@
   "artist": [
     {
       "id": 1,
-      "firstName": "Maeva",
-      "lastName": "Bonachera",
-      "birthDay": "04/04/1998"
+      "firstName": "Aurelien",
+      "lastName": "Contentin",
+      "birthDay": "01/08/1982"
     }
   ]
 }
